@@ -68,7 +68,3 @@ This project focuses on identifying **sales bottlenecks** using transactional sa
 The Sales Bottleneck Analysis helps identify weak points in the sales process. By reducing cancellations, improving product quality, and optimizing regional strategies, overall business performance can be improved.
 
 ---
-
-
-**Name:** Devansh Sukhla
-**Course:** BCA (Semester 1)
